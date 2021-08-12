@@ -1,0 +1,3 @@
+node1 ansible_user=agent ansible_ssh_private_key_file=/home/rundeck/linux_id_rsa
+node2 ansible_user=agent ansible_ssh_private_key_file=/home/rundeck/linux_id_rsa
+node3 ansible_user=agent ansible_ssh_private_key_file=/home/rundeck/linux_id_rsa
